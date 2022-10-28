@@ -1,5 +1,6 @@
-.container{
-    border:1px solid red;
+.container{ 
+    
+    background: black;
     width: 900px;
 
 }
@@ -8,8 +9,20 @@
     background-color: #708090;
 }
 
+
 .nav-link{
     color:#fff;
-    font-weight:700;
+    font-weight: 700;
     text-decoration: none;
 }
+
+main{
+    color:#fff
+}
+
+footer p{
+    color:#fff;
+    text-align:center;
+    padding: 0.8rem;
+}
+
